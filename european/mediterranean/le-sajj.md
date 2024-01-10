@@ -1,8 +1,0 @@
-# Bay Ridge Restaurant Guide
-## Mediterranean --> le-sajj
-
-Select a Resturant
-# [Le-sajj](https://lesajjbk.com/)
-
-[Back to Mediterranean](./mediterranean.md)
-[Start Over](.../home.md)
